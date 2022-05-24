@@ -1,0 +1,13 @@
+{
+    "prefix": "w!",
+    "clientId": "820476802938044446",
+    "guildId": "973273543712338000",
+    "ownerId": ["675798738047860779"],
+    "ownerIdZap": ["556484043532@c.us"],
+    "homeworksChannelID": "973275104077303888",
+    "homeworksMessageID": "973276246228209664",
+    "homeworksWarnChannelID": "974007712901894164",
+    "homeworksLogsChannelID": "974013187722706984",
+    "objectID": "6260bd496ea8f23698fd427d",
+    "db_uri": "mongodb+srv://filipe:filipe1302F@zapcluster.40uxq.mongodb.net/test"
+}
